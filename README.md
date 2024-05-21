@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Bhaskar Sawant</h1>
-<h3 align="center">Hello, I'm Bhaskar a Full-Stack developer based in India, specializing in Frontend development and can do Backend development and UI/UX too.</h3>
+<h3 align="center">Hello, I'm Bhaskar, a skilled developer based in India. My expertise lies in Fullstack development, and I'm also proficient in UI/UX design.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskarcsawant&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskarcsawant" /> </p>
 
